@@ -1,0 +1,2 @@
+Protein_Secondary_Structure_Models/ANN_Protein_Secondary_Structure.keras filter=lfs diff=lfs merge=lfs -text
+Protein_Secondary_Structure_Models/random_forest.pkl filter=lfs diff=lfs merge=lfs -text
